@@ -59,10 +59,6 @@ final class Stack {
         return correct;
     }
 
-    void setCorrect(boolean correct) {
-        this.correct = correct;
-    }
-
 }
 
 public class Special_Format_Checker {
