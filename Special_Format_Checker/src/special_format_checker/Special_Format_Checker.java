@@ -77,10 +77,10 @@ public class Special_Format_Checker {
             if (stack.isCorrect()) {
                 System.out.println("Your entry is a mirror, congratulations!");
             }else{
-                System.out.println("Sorry, your entry is not a mirror.");
+                System.out.println("Sorry, your entry is not a mirror string.");
             }
         } catch (Exception e) {
-            System.out.println("Sorry, there has been an error!");
+            System.out.println("Sorry, your entry is not a mirror string.");
         }
         
     }
