@@ -59,7 +59,7 @@ final class Stack {
         return correct;
     }
 
-    public void setCorrect(boolean correct) {
+    void setCorrect(boolean correct) {
         this.correct = correct;
     }
 
